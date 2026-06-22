@@ -1,10 +1,10 @@
-** Student Registration System
-**
-** Project Overview**
+## Student Registration System
+
+## Project Overview
 
 The Student Registration System is a web-based application developed using FastAPI and SQLite. It allows users to manage student records efficiently through a simple interface.
 
-## **Features**
+## Features
 
 * Add new student records
 * View all registered students
@@ -13,7 +13,7 @@ The Student Registration System is a web-based application developed using FastA
 * Store data using SQLite database
 * User-friendly web interface
 
-##** Technologies Used**
+## Technologies Used
 
 * Python
 * FastAPI
@@ -22,8 +22,7 @@ The Student Registration System is a web-based application developed using FastA
 * Jinja2 Templates
 * Uvicorn
 
-** Project Structure
-**
+## Project Structure
 Student_Registration_System/
 
 ├── main.py
@@ -40,7 +39,7 @@ Student_Registration_System/
 
 └── README.md
 
-** Installation**
+## Installation
 
 1. Clone the repository:
 
@@ -62,18 +61,18 @@ uvicorn main:app --reload
 
 http://127.0.0.1:8000
 
-**Database**
+## Database
 
 The application uses SQLite as the database. Student information is stored in the `database.db` file.
 
-**CRUD Operations**
+## CRUD Operations
 
 * Create: Add new student details
 * Read: View student records
 * Update: Modify existing student details
 * Delete: Remove student records
 
-**Author**
+## Author
 
 Dharshini T
 
